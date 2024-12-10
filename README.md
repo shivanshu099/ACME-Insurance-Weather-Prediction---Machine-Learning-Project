@@ -1,0 +1,2 @@
+# ACME-Insurance-Weather-Prediction---Machine-Learning-Project
+ This repository contains machine learning models built to solve two distinct real-world problems using decision tree algorithms. The primary focus is on predicting:  1. **Annual Medical Expenditure** for new customers of ACME Insurance Inc. 2. **Rain Prediction** for various locations across Australia based on historical weather data.
